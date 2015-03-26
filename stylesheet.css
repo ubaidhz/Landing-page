@@ -1,0 +1,57 @@
+body{
+	margin: 0 30px !important;
+	padding:0px;
+}
+.top-banner{
+margin-top:20px;
+
+}
+.logo{
+	padding-left: 20px;
+
+}
+.nav-bar{
+	/*background-color: red;*/
+	
+
+}
+.headline{
+	text-align: center;
+}
+
+button{
+	position:static;
+	padding: 20px;	
+	background-color: green;
+	margin-left: 70px;
+}
+.center-donate{
+	
+	min-height: 300px;
+	
+	margin: 4%;
+}
+.foto{background: url(/Users/billiealaaie/Desktop/Landingpage/images/flowers.jpg);
+}
+
+.link-style{
+	float: right;
+	list-style: none;
+	background-color: #1585FF;
+	font-weight: bolder;
+	font-color: black;
+	margin-right: 2px;
+	min-height: 60px;
+	text-align: center;
+	padding:20px 0px;
+}
+.bg-pic{
+	margin: 0 auto;
+	width:400px;
+}
+.ab{
+	background-color: #B53A01;
+margin-bottom:2%;
+padding: 0 20px;
+/*margin-left:3px;*/
+}
